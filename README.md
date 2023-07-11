@@ -34,37 +34,21 @@
 | Title | Venue | Type | Code |
 | :--- | :---: | :---: | :---: |
 | [Counterfactual Contrastive Learning for Weakly-Supervised Vision-Language Grounding](https://papers.nips.cc/paper/2020/file/d27b95cac4c27feb850aaa4070cc4675-Paper.pdf) | NeurIPS | CF | - |
-
 | [A causal view of compositional zero-shot recognition](https://arxiv.org/abs/2006.14610) | NeurIPS | IT | - |
-
 | [Counterfactual Vision-and-Language Navigation: Unravelling the Unseen](https://papers.nips.cc/paper/2020/hash/39016cfe079db1bfb359ca72fcba3fd8-Abstract.html) | NeurIPS | CF | - |
-
 | [Causal Intervention for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/2009.12547) | NeurIPS | IT | [PyTorch(Author)](https://github.com/ZHANGDONG-NJUST/CONTA) |
-
 | [Interventional Few-Shot Learning](http://arxiv.org/abs/2009.13000) | NeurIPS | IT | [PyTorch(Author)](https://github.com/yue-zhongqi/ifsl) |
-
 | [Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect](https://arxiv.org/abs/2009.12991) | NeurIPS | CF | [PyTorch(Author)](https://github.com/KaihuaTang/Long-Tailed-Recognition.pytorch) |
-
 | [Traffic Accident Benchmark for Causality Recognition](https://arxiv.org/abs/1911.07308) | ECCV | 0 | [PyTorch(Author)](https://github.com/tackgeun/CausalityInTrafficAccident) |
-
 | [Towards causal benchmarking of bias in face analysis algorithms](https://arxiv.org/abs/2007.06570) | ECCV | 0 | [PyTorch(Author)](https://github.com/balakg/transects-eccv2020) |
-
 | [Learning What Makes a Difference from Counterfactual Examples and Gradient Supervision](https://arxiv.org/abs/2004.09034) | ECCV | CF | - |
-
 | [Counterfactual Vision-and-Language Navigation via Adversarial Path Sampling](https://arxiv.org/abs/1911.07308) | ECCV | CF | - |
-
 | [Visual Commonsense R-CNN](https://arxiv.org/abs/2002.12204) | CVPR | CR/IT | [PyTorch(Author)](https://github.com/Wangt-CN/VC-R-CNN) |
-
 | [Unbiased scene graph generation from biased training](https://arxiv.org/abs/2002.11949) | CVPR | CF | [PyTorch(Author)](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch) |
-
 | [Two causal principles for improving visual dialog](https://arxiv.org/abs/1911.10496) | CVPR | IT | [PyTorch(Author)](https://github.com/simpleshinobu/visdial-principles) |
-
 | [Counterfactual samples synthesizing for robust visual question answering](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Counterfactual_Samples_Synthesizing_for_Robust_Visual_Question_Answering_CVPR_2020_paper.pdf) | CVPR | CF | [PyTorch(Author)](https://github.com/yanxinzju/CSS-VQA) |
-
 | [Towards Causal VQA: Revealing and Reducing Spurious Correlations by Invariant and Covariant Semantic Editing](https://arxiv.org/abs/1912.07538) | CVPR | CF | [PyTorch(Author)](https://github.com/AgarwalVedika/CausalVQA) |
-
 | [Counterfactuals uncover the modular structure of deep generative models](https://arxiv.org/abs/1912.07538) | ICLR | CF | - |
-
 | [Exploratory Not Explanatory: Counterfactual Analysis of Saliency Maps for Deep Reinforcement Learning](https://arxiv.org/abs/1912.05743) | ICLR | CF | - |
 
 
