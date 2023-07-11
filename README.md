@@ -75,3 +75,7 @@
 | [Deconfounded Image Captioning: A Causal Retrospect](https://arxiv.org/abs/2003.03923) | Arxiv | IT | - |
 | [Latent Causal Invariant Model](https://arxiv.org/abs/2011.02203) | Arxiv | 0 | - |
 
+
+## 8. Related Repo
+
+- [Awesome-Causality-in-CV](https://github.com/Wangt-CN/Awesome-Causality-in-CV)
