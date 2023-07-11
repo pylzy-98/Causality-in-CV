@@ -14,7 +14,7 @@
 
 ## 1. Type of Vausality in ML
 
-| Type | IT | CF | CR | Else|
+| Type | `IT` | `CF` | `CR` | `Else` |
 | :---: | :---: | :---: | :---: | :---: |
 | Explanation | Intervention | Counterfactual | Causal Representation | Other Types |
 
