@@ -55,9 +55,23 @@
 
 ## 4. 2021 Venues
 
+| Title | Venue | Type | Code |
+| :--- | :---: | :---: | :---: |
+| []() |  |  | []() |
+
 ## 5. 2022 Venues
 
 ## 6. 2023 Venues
 
 
 ## 7. Arxiv
+
+| Title | Venue | Type | Code |
+| :--- | :---: | :---: | :---: |
+| [Learning Causal Semantic Representation for Out-of-Distribution Prediction](https://arxiv.org/abs/2011.01681) | Arxiv | CR | - |
+| [ECINN: Efficient Counterfactuals from Invertible Neural Networks](https://arxiv.org/abs/2103.13701) | Arxiv | CF | - |
+| [A Structural Causal Model for MR Images of Multiple Sclerosis](https://arxiv.org/abs/2103.03158) | Arxiv | CF | - |
+| [Counterfactual Variable Control for Robust and Interpretable Question Answering](https://arxiv.org/abs/2010.05581) | Arxiv | CF | [PyTorch(Author)](https://github.com/PluviophileYU/CVC-QA) |
+| [Deconfounded Image Captioning: A Causal Retrospect](https://arxiv.org/abs/2003.03923) | Arxiv | IT | - |
+| [Latent Causal Invariant Model](https://arxiv.org/abs/2011.02203) | Arxiv | 0 | - |
+
