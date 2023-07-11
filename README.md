@@ -1,10 +1,10 @@
-# Causality-in-ML
+# Causality-in-CV
 
 关于机器学习中因果相关的论文清单。其中部分内容参考了Awesome-Causality-in-CV。
 
 
 ## Contents
-1. Type of Causality in ML
+1. Type of Causality in CV
 2. Before 2020
 3. 2020 Venues
 4. 2021 Venues
