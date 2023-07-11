@@ -48,7 +48,7 @@
 | [Two causal principles for improving visual dialog](https://arxiv.org/abs/1911.10496) | CVPR | IT | [PyTorch(Author)](https://github.com/simpleshinobu/visdial-principles) |
 | [Counterfactual samples synthesizing for robust visual question answering](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Counterfactual_Samples_Synthesizing_for_Robust_Visual_Question_Answering_CVPR_2020_paper.pdf) | CVPR | CF | [PyTorch(Author)](https://github.com/yanxinzju/CSS-VQA) |
 | [Towards Causal VQA: Revealing and Reducing Spurious Correlations by Invariant and Covariant Semantic Editing](https://arxiv.org/abs/1912.07538) | CVPR | CF | [PyTorch(Author)](https://github.com/AgarwalVedika/CausalVQA) |
-| [Counterfactuals uncover the modular structure of deep generative models](https://arxiv.org/abs/1912.07538) | ICLR | CF | - |
+| [Counterfactuals uncover the modular structure of deep generative models](https://arxiv.org/abs/1812.03253) | ICLR | CF | - |
 | [Exploratory Not Explanatory: Counterfactual Analysis of Saliency Maps for Deep Reinforcement Learning](https://arxiv.org/abs/1912.05743) | ICLR | CF | - |
 
 
