@@ -57,7 +57,24 @@
 
 | Title | Venue | Type | Code |
 | :--- | :---: | :---: | :---: |
-| []() |  |  | []() |
+| [Transporting Causal Mechanisms for Unsupervised Domain Adaptation](https://arxiv.org/abs/2107.11055) | ICCV | 0 | [PyTorch(Author)](https://github.com/yue-zhongqi/tcm) |
+| [Causal Attention for Unbiased Visual Recognition](https://arxiv.org/abs/2108.08782) | ICCV | IT | [PyTorch(Author)](https://github.com/Wangt-CN/CaaM) |
+| [Learning Causal Representation for Training Cross-Domain Pose Estimator via Generative Interventions]() | ICCV | IT/CR | - |
+| [Human Trajectory Prediction via Counterfactual Analysis](https://arxiv.org/abs/2107.14202) | ICCV | CF | [PyTorch(Author)](https://github.com/CHENGY12/CausalHTP) |
+| [Counterfactual Attention Learning for Fine-Grained Visual Categorization and Re-Identification](https://arxiv.org/abs/2108.08728) | ICCV | CF | [PyTorch(Author)](https://github.com/raoyongming/cal) |
+| [Counterfactual VQA: A Cause-Effect Look at Language Bias](https://arxiv.org/abs/2006.04315) | CVPR | CF | [PyTorch(Author)](https://github.com/yuleiniu/cfvqa) |
+| [Counterfactual Zero-Shot and Open-Set Visual Recognition](https://arxiv.org/abs/2103.00887) | CVPR | CF | [PyTorch(Author)](https://github.com/yue-zhongqi/gcm-cf) |
+| [Distilling Causal Effect of Data in Class-Incremental Learning](https://arxiv.org/pdf/2103.01737) | CVPR | CF | [PyTorch(Author)](https://github.com/JoyHuYY1412/DDE_CIL) |
+| [Causal Attention for Vision-Language Tasks](https://arxiv.org/abs/2103.03493) | CVPR | IT | [PyTorch(Author)](https://github.com/yangxuntu/lxmertcatt) |
+| [The Blessings of Unlabeled Background in Untrimmed Videos](https://arxiv.org/abs/2103.13183) | CVPR | CF | - |
+| [Affect2MM: Affective Analysis of Multimedia Content Using Emotion Causality](https://arxiv.org/abs/2103.06541) | CVPR | O | [PyTorch(Author)](https://gamma.umd.edu/researchdirections/affectivecomputing/affect2mm/) |
+| [CausalVAE: Disentangled Representation Learning via Neural Structural Causal Models](https://arxiv.org/abs/2004.08697) | CVPR | CR | - |
+| [Generative Interventions for Causal Learning](https://arxiv.org/abs/2012.12265) | CVPR | CR | [PyTorch(Author)](https://github.com/cvlab-columbia/GenInt) |
+| [ACRE: Abstract Causal REasoning Beyond Covariation](https://arxiv.org/abs/2103.14232) | CVPR | 0 | [PyTorch(Author)](https://github.com/WellyZhang/ACRE) |
+| [Towards Robust Classification Model by Counterfactual and Invariant Data Generation](https://arxiv.org/abs/2106.01127) | CVPR | CF | [PyTorch(Author)](https://github.com/WellyZhang/ACRE) |
+| [Interventional Video Grounding With Dual Contrastive Learning](https://arxiv.org/abs/2106.11013) | CVPR | IT | - |
+| [Representation Learning via Invariant Causal Mechanisms](https://arxiv.org/abs/2010.07922) | ICLR | CR | - |
+| [Counterfactual Generative Networks](https://arxiv.org/abs/2101.06046) | ICLR | CF | [PyTorch(Author)](https://github.com/autonomousvision/counterfactual_generative_networks) |
 
 ## 5. 2022 Venues
 
