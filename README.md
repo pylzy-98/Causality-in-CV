@@ -67,7 +67,7 @@
 | [Distilling Causal Effect of Data in Class-Incremental Learning](https://arxiv.org/pdf/2103.01737) | CVPR | CF | [PyTorch(Author)](https://github.com/JoyHuYY1412/DDE_CIL) |
 | [Causal Attention for Vision-Language Tasks](https://arxiv.org/abs/2103.03493) | CVPR | IT | [PyTorch(Author)](https://github.com/yangxuntu/lxmertcatt) |
 | [The Blessings of Unlabeled Background in Untrimmed Videos](https://arxiv.org/abs/2103.13183) | CVPR | CF | - |
-| [Affect2MM: Affective Analysis of Multimedia Content Using Emotion Causality](https://arxiv.org/abs/2103.06541) | CVPR | O | [PyTorch(Author)](https://gamma.umd.edu/researchdirections/affectivecomputing/affect2mm/) |
+| [Affect2MM: Affective Analysis of Multimedia Content Using Emotion Causality](https://arxiv.org/abs/2103.06541) | CVPR | 0 | [PyTorch(Author)](https://gamma.umd.edu/researchdirections/affectivecomputing/affect2mm/) |
 | [CausalVAE: Disentangled Representation Learning via Neural Structural Causal Models](https://arxiv.org/abs/2004.08697) | CVPR | CR | - |
 | [Generative Interventions for Causal Learning](https://arxiv.org/abs/2012.12265) | CVPR | CR | [PyTorch(Author)](https://github.com/cvlab-columbia/GenInt) |
 | [ACRE: Abstract Causal REasoning Beyond Covariation](https://arxiv.org/abs/2103.14232) | CVPR | 0 | [PyTorch(Author)](https://github.com/WellyZhang/ACRE) |
