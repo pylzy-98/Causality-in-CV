@@ -86,6 +86,12 @@
 | [Counterfactual Cycle-Consistent Learning for Instruction Following and Generation in Vision-Language Navigation](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Counterfactual_CycleConsistent_Learning_for_Instruction_Following_and_Generation_in_Vision-Language_CVPR_2022_paper.html)| CVPR | CF | [Author](https://github.com/HanqingWangAI/CCC-VLN) |
 | [Debiased Learning from Naturally Imbalanced Pseudo-Labels](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Debiased_Learning_From_Naturally_Imbalanced_Pseudo-Labels_CVPR_2022_paper.html)| CVPR | CF | [Author](https://github.com/frank-xwang/debiased-pseudo-labeling) |
 
+### 2022 other papers with lower citations
+
+> | Title | Venue | Type | Code |
+> | :--- | :---: | :---: | :---: |
+> |[Diffusion Visual Counterfactual Explanations](https://proceedings.neurips.cc/paper_files/paper/2022/hash/025f7165a452e7d0b57f1397fed3b0fd-Abstract-Conference.html)| NeurIPS | CF | [Author](https://github.com/valentyn1boreiko/DVCEs) |
+
 
 ## 6. 2023 Venues
 
@@ -101,6 +107,7 @@
 | [Deconfounded Image Captioning: A Causal Retrospect](https://arxiv.org/abs/2003.03923) | Arxiv | IT | - |
 | [Latent Causal Invariant Model](https://arxiv.org/abs/2011.02203) | Arxiv | 0 | - |
 |[Causal Induction From Visual Obervations For Goal Directed Tasks](https://arxiv.org/abs/1910.01751)| Arxiv | 0 | - |
+| [Diffusion Causal Models for Counterfactual Estimation](https://arxiv.org/abs/2202.10166) | Arxiv | CF | [Author](https://github.com/vios-s/Diff-SCM) |
 
 
 
