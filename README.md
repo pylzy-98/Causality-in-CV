@@ -91,6 +91,8 @@
 | [Counterfactual Variable Control for Robust and Interpretable Question Answering](https://arxiv.org/abs/2010.05581) | Arxiv | CF | [PyTorch(Author)](https://github.com/PluviophileYU/CVC-QA) |
 | [Deconfounded Image Captioning: A Causal Retrospect](https://arxiv.org/abs/2003.03923) | Arxiv | IT | - |
 | [Latent Causal Invariant Model](https://arxiv.org/abs/2011.02203) | Arxiv | 0 | - |
+|[Causal Induction From Visual Obervations For Goal Directed Tasks](https://arxiv.org/abs/1910.01751)| Arxiv | 0 | - |
+
 
 
 ## 8. Related Repo
