@@ -12,7 +12,7 @@
 6. 2023 Venues
 7. Arxiv
 
-## 1. Type of Vausality in ML
+## 1. Type of Causality in CV
 
 | Type | `IT` | `CF` | `CR` | `Else` |
 | :---: | :---: | :---: | :---: | :---: |
