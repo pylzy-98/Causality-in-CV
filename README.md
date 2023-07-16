@@ -85,6 +85,11 @@
 |[Causal Representation Learning for Out-of-Distribution Recommendation](https://dl.acm.org/doi/abs/10.1145/3485447.3512251)| WWW | CR/IT | - |
 | [Counterfactual Cycle-Consistent Learning for Instruction Following and Generation in Vision-Language Navigation](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Counterfactual_CycleConsistent_Learning_for_Instruction_Following_and_Generation_in_Vision-Language_CVPR_2022_paper.html)| CVPR | CF | [Author](https://github.com/HanqingWangAI/CCC-VLN) |
 | [Debiased Learning from Naturally Imbalanced Pseudo-Labels](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Debiased_Learning_From_Naturally_Imbalanced_Pseudo-Labels_CVPR_2022_paper.html)| CVPR | CF | [Author](https://github.com/frank-xwang/debiased-pseudo-labeling) |
+| [Evaluating and Mitigating Bias in Image Classifiers: A Causal Perspective Using Counterfactuals](https://openaccess.thecvf.com/content/WACV2022/html/Dash_Evaluating_and_Mitigating_Bias_in_Image_Classifiers_A_Causal_Perspective_WACV_2022_paper.html) | WACV | CF | - |
+|[Invariant Grounding for Video Question Answering](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Invariant_Grounding_for_Video_Question_Answering_CVPR_2022_paper.html)| CVPR | IT | [Author](https://github.com/yl3800/IGV ) |
+| [Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning](https://dl.acm.org/doi/abs/10.1145/3485447.3511948)| WWW | CF | - |
+|[Learning disentangled representations in the imaging domain](https://www.sciencedirect.com/science/article/pii/S1361841522001633)| Medical Image Analysis | 0 | [Author](https://github.com/vios-s/disentanglement_tutorial) |
+
 
 ### 2022 other papers with lower citations
 
@@ -108,7 +113,7 @@
 | [Latent Causal Invariant Model](https://arxiv.org/abs/2011.02203) | Arxiv | 0 | - |
 |[Causal Induction From Visual Obervations For Goal Directed Tasks](https://arxiv.org/abs/1910.01751)| Arxiv | 0 | - |
 | [Diffusion Causal Models for Counterfactual Estimation](https://arxiv.org/abs/2202.10166) | Arxiv | CF | [Author](https://github.com/vios-s/Diff-SCM) |
-
+|[Explaining Classifiers with Causal Concept Effect (CaCE)](https://arxiv.org/abs/1907.07165)| Arxiv | 0 | - |
 
 
 ## 8. Related Repo
