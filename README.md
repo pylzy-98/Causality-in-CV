@@ -81,8 +81,7 @@
 | Title | Venue | Type | Code |
 | :--- | :---: | :---: | :---: |
 |[Causal Representation Learning for Out-of-Distribution Recommendation](https://dl.acm.org/doi/abs/10.1145/3485447.3512251)| WWW | CR/IT | - |
-|[Counterfactual Cycle-Consistent Learning for Instruction Following and Generation in Vision-Language Navigation
-](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Counterfactual_CycleConsistent_Learning_for_Instruction_Following_and_Generation_in_Vision-Language_CVPR_2022_paper.html)| CVPR | CF | [Author](https://github.com/HanqingWangAI/CCC- VLN) |
+| [Counterfactual Cycle-Consistent Learning for Instruction Following and Generation in Vision-Language Navigation](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Counterfactual_CycleConsistent_Learning_for_Instruction_Following_and_Generation_in_Vision-Language_CVPR_2022_paper.html)| CVPR | CF | [Author](https://github.com/HanqingWangAI/CCC- VLN) |
 
 
 ## 6. 2023 Venues
