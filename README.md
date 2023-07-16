@@ -1,6 +1,6 @@
 # Causality-in-CV
 
-关于机器学习中因果相关的论文清单。其中部分内容参考了Awesome-Causality-in-CV。
+关于机器学习中因果相关的论文清单。其中部分内容参考了Awesome-Causality-in-CV。一些解释内容参考[笔记](https://blog.csdn.net/qq_40943760/article/details/123373859)
 
 
 ## Contents
@@ -17,6 +17,15 @@
 | Type | `IT` | `CF` | `CR` | `Else` |
 | :---: | :---: | :---: | :---: | :---: |
 | Explanation | Intervention | Counterfactual | Causal Representation | Other Types |
+
+> **Causal Representation**
+> 主要参考[《Towards Casual Representation Learning》](https://ieeexplore.ieee.org/abstract/document/9363924)
+> 现实应用中，许多关键问题都可以归结为OOD(out-of-distribution)问题。因为统计学习模型需要独立同分布(iid)假设，若测试数据与训练数据来自不同的分布，统计学习模型往往会出错。在很多情况下，iid的假设是不成立的，而因果推断所研究的正是这样的情形：如何学习一个可以在不同分布下工作、蕴含因果机制的因果模型(Causal Model)，并使用因果模型进行干预或反事实推断。因此，人工智能和因果关系的一个核心问题是因果表征学习，即从低级观察（low-level observations）中发现高级因果变量（high-level causal variables）。
+> 很自然地想到将因果推断的优点结合到机器学习中，然而现实没有这么容易。因果模型往往处理的是结构化数据（行数据，可以用二维表结构来逻辑表达实现的数据），并不能处理机器学习中常见的高维的低层次的原始数据，例如图像。为此，回到最初的问题，因果表征即可理解为可以用于因果模型的表征，因果表征学习即为将图像这样的原始数据转化为可用于因果模型的结构化变量。因果表征学习就是连接因果科学与机器学习的桥梁，解决这一相关问题，就可以将因果推断与机器学习结合起来，构建下一代更强大的AI。
+
+
+
+
 
 ## 2. Before 2020
 
