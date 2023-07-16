@@ -1,6 +1,8 @@
 # Causality-in-CV
 
-关于机器学习中因果相关的论文清单。其中部分内容参考了Awesome-Causality-in-CV。一些解释内容参考[笔记](https://blog.csdn.net/qq_40943760/article/details/123373859)
+关于机器学习中因果相关的论文清单。其中部分内容参考了Awesome-Causality-in-CV。一些解释内容参考[tzc_fly的笔记](https://blog.csdn.net/qq_40943760/article/details/123373859)。
+
+欢迎大家补充以及纠正其中的内容。
 
 
 ## Contents
