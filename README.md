@@ -105,6 +105,15 @@
 
 ## 6. 2023 Venues
 
+因为时间因素，该部分的一些论文的引用量可能不高。
+
+| Title | Venue | Type | Code |
+| :--- | :---: | :---: | :---: |
+| [Context De-confounded Emotion Recognition](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Context_De-Confounded_Emotion_Recognition_CVPR_2023_paper.pdf) | CVPR | 0 | - |
+| [Counterfactual Samples Synthesizing and Training for Robust Visual Question Answering](https://ieeexplore.ieee.org/abstract/document/10164132) | Pattern Analysis and Machine Intelligence | CF | [Author]( https://github.com/hengyuan-hu/bottom-up-attention-vqa) | 
+| [Cross-Modal Causal Relational Reasoning for Event-Level Visual Question Answering](https://ieeexplore.ieee.org/abstract/document/10146482) | Pattern Analysis and Machine Intelligence | IT | [Autthor](https://github.com/HCPLab-SYSU/CMCIR) |
+
+
 
 ## 7. Arxiv
 
