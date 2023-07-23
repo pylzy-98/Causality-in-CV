@@ -91,9 +91,9 @@
 
 ## 5. 2022 Venues
 
+<!--|[Causal Representation Learning for Out-of-Distribution Recommendation](https://dl.acm.org/doi/abs/10.1145/3485447.3512251)| WWW | CR/IT | - |-->
 | Title | Venue | Type | Code |
 | :--- | :---: | :---: | :---: |
-<!--|[Causal Representation Learning for Out-of-Distribution Recommendation](https://dl.acm.org/doi/abs/10.1145/3485447.3512251)| WWW | CR/IT | - |-->
 | [Counterfactual Cycle-Consistent Learning for Instruction Following and Generation in Vision-Language Navigation](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Counterfactual_CycleConsistent_Learning_for_Instruction_Following_and_Generation_in_Vision-Language_CVPR_2022_paper.html)| CVPR | CF | [Author](https://github.com/HanqingWangAI/CCC-VLN) |
 | [Debiased Learning from Naturally Imbalanced Pseudo-Labels](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Debiased_Learning_From_Naturally_Imbalanced_Pseudo-Labels_CVPR_2022_paper.html)| CVPR | CF | [Author](https://github.com/frank-xwang/debiased-pseudo-labeling) |
 | [Evaluating and Mitigating Bias in Image Classifiers: A Causal Perspective Using Counterfactuals](https://openaccess.thecvf.com/content/WACV2022/html/Dash_Evaluating_and_Mitigating_Bias_in_Image_Classifiers_A_Causal_Perspective_WACV_2022_paper.html) | WACV | CF | - |
@@ -111,10 +111,10 @@
 
 因为时间因素，该部分的一些论文的引用量可能不高。
 
+<!--| [Counterfactual Samples Synthesizing and Training for Robust Visual Question Answering](https://ieeexplore.ieee.org/abstract/document/10164132) | Pattern Analysis and Machine Intelligence | CF | [Author]( https://github.com/hengyuan-hu/bottom-up-attention-vqa) | -->
 | Title | Venue | Type | Code |
 | :--- | :---: | :---: | :---: |
 | [Context De-confounded Emotion Recognition](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Context_De-Confounded_Emotion_Recognition_CVPR_2023_paper.pdf) | CVPR | 0 | - |
-<!--| [Counterfactual Samples Synthesizing and Training for Robust Visual Question Answering](https://ieeexplore.ieee.org/abstract/document/10164132) | Pattern Analysis and Machine Intelligence | CF | [Author]( https://github.com/hengyuan-hu/bottom-up-attention-vqa) | -->
 | [Cross-Modal Causal Relational Reasoning for Event-Level Visual Question Answering](https://ieeexplore.ieee.org/abstract/document/10146482) | Pattern Analysis and Machine Intelligence | IT | [Autthor](https://github.com/HCPLab-SYSU/CMCIR) |
 
 
