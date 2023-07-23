@@ -94,6 +94,8 @@
 <!--|[Causal Representation Learning for Out-of-Distribution Recommendation](https://dl.acm.org/doi/abs/10.1145/3485447.3512251)| WWW | CR/IT | - |-->
 <!-- | [Counterfactual Cycle-Consistent Learning for Instruction Following and Generation in Vision-Language Navigation](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Counterfactual_CycleConsistent_Learning_for_Instruction_Following_and_Generation_in_Vision-Language_CVPR_2022_paper.html)| CVPR | CF | [Author](https://github.com/HanqingWangAI/CCC-VLN) | -->
 <!-- |[Learning disentangled representations in the imaging domain](https://www.sciencedirect.com/science/article/pii/S1361841522001633)| Medical Image Analysis | 0 | [Author](https://github.com/vios-s/disentanglement_tutorial) | -->
+<!-- |[Diffusion Visual Counterfactual Explanations](https://proceedings.neurips.cc/paper_files/paper/2022/hash/025f7165a452e7d0b57f1397fed3b0fd-Abstract-Conference.html)| NeurIPS | CF | [Author](https://github.com/valentyn1boreiko/DVCEs) | -->
+
 | Title | Venue | Type | Code |
 | :--- | :---: | :---: | :---: |
 | [Debiased Learning from Naturally Imbalanced Pseudo-Labels](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Debiased_Learning_From_Naturally_Imbalanced_Pseudo-Labels_CVPR_2022_paper.html)| CVPR | CF | [Author](https://github.com/frank-xwang/debiased-pseudo-labeling) |
@@ -102,7 +104,6 @@
 | [Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning](https://dl.acm.org/doi/abs/10.1145/3485447.3511948)| WWW | CF | - |
 |[Weakly supervised causal representation learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/fa567e2b2c870f8f09a87b6e73370869-Abstract-Conference.html)| NeurIPS | CR | - |
 | [Weakly Supervised Disentangled Generative Causal Representation Learning](https://dl.acm.org/doi/abs/10.5555/3586589.3586830) | JMLR | CR | [Author](https://github.com/xwshen51/DEAR) |
-|[Diffusion Visual Counterfactual Explanations](https://proceedings.neurips.cc/paper_files/paper/2022/hash/025f7165a452e7d0b57f1397fed3b0fd-Abstract-Conference.html)| NeurIPS | CF | [Author](https://github.com/valentyn1boreiko/DVCEs) |
 | [Show, Deconfound and Tell: Image Captioning with Causal Inference](https://openaccess.thecvf.com/content/CVPR2022/html/Liu_Show_Deconfound_and_Tell_Image_Captioning_With_Causal_Inference_CVPR_2022_paper.html) | CVPR | IT | [Author](https://github.com/CUMTGG/CIIC) |
 |[The Role of Deconfounding in Meta-learning](https://proceedings.mlr.press/v162/jiang22a.html) | ICML | 0 | - |
 
